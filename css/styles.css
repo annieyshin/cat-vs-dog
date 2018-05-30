@@ -4,3 +4,37 @@ background-color: violet;
 width: 100%;
 text-align: center;
 }
+
+.green-background {
+  background-color: green;
+}
+
+.default-background {
+
+  background-color: inherit;
+}
+
+.catpic {
+
+  display: none;
+  color: purple;
+  font-weight: bold;
+  font-family: fantasy;
+  background-color: lightgrey;
+  padding: 20px;
+  text-align: center;
+  font-size: 24px;
+
+}
+
+.dogpic {
+
+  display: none;
+  color: blue;
+  font-weight: bold;
+  font-family: fantasy;
+  background-color: gold;
+  padding: 20px;
+  text-align: center;
+  font-size: 24px;
+}
